@@ -1,0 +1,2 @@
+/live_thumbnail.webm
+  Cache-Control: no-cache, no-store, must-revalidate
